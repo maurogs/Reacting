@@ -14,6 +14,8 @@ gem 'uglifier', '>= 1.3.0'
 
 # MONGO
 gem 'mongoid', '~> 5.0', '>= 5.0.1'
+# REACT
+gem 'react-rails', '~> 1.4', '>= 1.4.2'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
